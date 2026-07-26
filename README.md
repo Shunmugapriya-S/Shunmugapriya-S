@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Shunmugapriya 👋</h1>
+<h1 align="center">Hi, I'm Shunmugapriya 
+</h1>
 <h3 align="center">Passionate about converting raw data into meaningful insights</h3>
 
 - 💼 Aspiring AI Developer Intern @ **Chrysalis Vidya Pvt Ltd** — developed a production-ready, deployable **RAG application for automated school report generation**

@@ -12,6 +12,7 @@
 ### 🎓 Education
 
 **B.Tech in Artificial Intelligence and Data Science**
+   -
    Velammal Engineering College, Chennai
 
 ---

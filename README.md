@@ -4,7 +4,7 @@
 <h3 align="center">Passionate about converting raw data into meaningful insights</h3>
 
 <p align="center">
-  AI & Data Science Undergraduate | AI Developer | Machine Learning & Data Engineering Enthusiast
+  AI & Data Science Undergraduate | AI Developer |  Data Engineering Aspirant|Gen AI Enthusiast
 </p>
 
 ---
